@@ -1,0 +1,76 @@
+* { 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'DotGothic16', sans-serif;
+  }
+
+body {
+    background-color: #8FDABB;
+}
+
+header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    height: 300vh;
+    text-align: center;
+}
+
+.message {
+    margin-left: 250px;
+    display: flex;
+    text-align: justify;
+}
+
+.legopic {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.gauge {
+    display: flex;
+    text-align: justify;
+    padding: 2px;
+    margin: 2px;
+}
+
+.pic {
+    width: 40%;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.birthdayboy {
+    border-radius: 50%;
+}
+
+.strength-and-money {
+    margin-right: 50px;
+}
+
+.strength {
+    padding: 5px;
+    border-style: double;
+    border-width: 8px;
+    border-radius: 8px;
+}
+
+.money {
+    padding: 5px 5px 5px 5px;
+    border-style: double;
+    border-width: 8px;
+    border-radius: 8px;
+}
